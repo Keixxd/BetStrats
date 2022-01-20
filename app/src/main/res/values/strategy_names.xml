@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="strategy_names">
+        <item>1X on home outsiders strategy</item>
+        <item>All-in on odds at 1.20 strategy</item>
+        <item>The 1–3–2–6 system</item>
+        <item>The Fibonacci betting system</item>
+        <item>The Kelly formula</item>
+        <item>Dutching in sports betting</item>
+        <item>Early cashout in sports betting</item>
+        <item>Bet live on over 1.5 goals</item>
+    </string-array>
+</resources>

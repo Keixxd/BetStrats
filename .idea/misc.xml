@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/drawable/favourite_drawable_24dp.xml" value="0.2759259259259259" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/layout/fragment_details.xml" value="0.33" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/layout/fragment_favourite.xml" value="0.33" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/layout/fragment_home.xml" value="0.21920289855072464" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/layout/strategy_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/menu/fragment_details_menu.xml" value="0.278125" />
+        <entry key="..\:/Users/ALEX1/AndroidStudioProjects/BetStrats/app/src/main/res/menu/fragment_home_menu.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
